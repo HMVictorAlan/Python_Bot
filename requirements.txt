@@ -1,0 +1,11 @@
+langchain==0.0.313
+langchain-experimental==0.0.29
+markdown-it-py==3.0.0
+matplotlib==3.7.1
+numpy==1.24.3
+openai==0.27.10
+pathlib==1.0.1
+pathlib2==2.3.7.post1
+streamlit==1.27.2
+streamlit-option-menu==0.3.6
+streamlit-tags==1.2.8
