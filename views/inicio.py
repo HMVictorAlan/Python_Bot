@@ -17,7 +17,7 @@ def load_view():
 	st.markdown('##')
 
 	# Sección de Introducción
-	st.markdown("<h1 style='text-align: center; color: #grey'> Bienvenido a Python Bot - Tu Compañero Inteligente de Python </h1>", unsafe_allow_html=True)
+	st.markdown("<h1 style='text-align: center; color: grey'> Bienvenido a Python Bot - Tu Compañero Inteligente de Python </h1>", unsafe_allow_html=True)
 	#st.markdown("# Bienvenido a Python Bot - Tu Compañero Inteligente de Python!")
 	st.markdown('##')
 
