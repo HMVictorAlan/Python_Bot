@@ -17,7 +17,7 @@ def load_view():
         "Twitter": "https://twitter.com",
     }
 
-    st.markdown("<h1 style='text-align: center; color: #d4d4d4;'>  </h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: grey'>  </h1>", unsafe_allow_html=True)
 
     col1, col2 = st.columns([1, 2])
     with col1:
