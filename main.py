@@ -23,7 +23,7 @@ def navigation():
         contacto.load_view()
     elif route == "chat":
 
-        st.markdown("<h1 style='text-align: center; color: grey> ¿Qué duda Python tienes? </h1>",
+        st.markdown("<h1 style='text-align: center; color: grey'> ¿Qué duda Python tienes? </h1>",
                     unsafe_allow_html=True)
         st.subheader('Sube tu archivo')
 
