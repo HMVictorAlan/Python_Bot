@@ -11,7 +11,7 @@ def load_view():
     """
     correo = "hmvictoralan@gmail.com"
     MEDIOS_DE_COMUNICACIÓN_SOCIAL = {
-        "Discord": "",
+        "Discord": "https://discord.gg/jSR7vGGP",
         "LinkedIn": "https://www.linkedin.com/in/victoralan-hernandezmunoz/",
         "GitHub": "https://github.com",
         "Twitter": "https://twitter.com",
